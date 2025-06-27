@@ -17,4 +17,4 @@ redis:
   password: gxOZoRRACpgkCjGxsxgdXhHtsGMLJPXY
 
 keys:
-  my_api_key: e4c1bcdfdc51ae2dd0f0aa5f765a09d1b6c9ae2d74c1bff5d2a49288d80a2f6e
+  e4c1bcdfdc51ae2dd0f0aa5f765a09d1b6c9ae2d74c1bff5d2a49288d80a2f6e: secret
